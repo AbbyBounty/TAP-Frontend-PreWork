@@ -1,6 +1,6 @@
 # TAP-Frontend-PreWork
 
-### change email at here
+### change email in index.html
 
 ![alt text](./assets/email.png)
 
