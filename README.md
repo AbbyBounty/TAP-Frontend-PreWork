@@ -9,7 +9,7 @@ Checkout Live Website Here 👉 https://abbybounty.github.io/TAP-Frontend-PreWor
 
 ![alt text](./assets/email.png)
 
-## Sample screenshot
+## Sample screenshot1
 
 ![alt text](./assets/screenshot.png)
 
